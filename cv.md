@@ -20,8 +20,8 @@ Telephone number:+79178543626
 # Languges:
 * English-B2
 * Turkish-B2
-* Persian- Beginer
-* Arabic-Beginer
+* Persian- Beginтer
+* Arabic-Beginтer
 
 
 
